@@ -1,3 +1,18 @@
-body {
-  background-color: black;
+body{
+margin: 0;
+font-family: 'Prompt', sans-serif;
+color: White;
+background:#202731;
+
+
+}
+
+section{
+position:  relative;
+display: flex;
+flex-direction: column;
+align-items: center;
+min-height: 400px;
+padding: 100px 20vw;
+
 }
